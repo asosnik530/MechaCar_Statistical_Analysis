@@ -14,3 +14,6 @@ The vehicle length and ground clearance are statistically not a random amount to
 ## T-Tests on Suspension Coils
 Assuming our significance level was the common 0.05 percent, our p-value is above our significance level. The PSI across all manufacturing lots is statistically similar to the population mean of 1,500 pounds per square inch.
 ![Ttest](/Ttest.PNG)
+
+## Study Design: MechaCar vs Competition
+A statistical study is that the more expensive a car is the better the MechaCar performs against the competition. The null hypothesis is that there is no significant difference between the performance of the car based on price. The statistical test I would use is the multiple linear regression. This model would help predict the price of the car based on the speed and MPG. The data needed for this model would be the car model, the speed of the car, the MPG of the car and the price. 
