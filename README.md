@@ -10,3 +10,7 @@ The vehicle length and ground clearance are statistically not a random amount to
  
  ![summarizesuspension](/summarizesuspension.PNG)
  ![lotsummary](/lotsummary.PNG)
+
+## T-Tests on Suspension Coils
+Assuming our significance level was the common 0.05 percent, our p-value is above our significance level. The PSI across all manufacturing lots is statistically similar to the population mean of 1,500 pounds per square inch.
+![Ttest](/Ttest.PNG)
